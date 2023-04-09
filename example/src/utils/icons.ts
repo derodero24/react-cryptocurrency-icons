@@ -138,6 +138,7 @@ const devtool = [
 ].sort() as ReactWeb3IconKey[];
 
 const dex = [
+  'CurveFinance',
   'Dydx',
   'Dydx2',
   'DydxMono',
